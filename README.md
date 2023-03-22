@@ -1,2 +1,2 @@
-# Pr-ctica-2
+# Practica-2
 Problema de puente de Ambite
